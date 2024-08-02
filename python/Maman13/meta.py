@@ -42,15 +42,6 @@ def add_code_to_file_functions():
         name_space_class = globals().get(cls.__name__)
         modify_class_method(name_space_class, str(func.__name__), additional_code)
 
-    basket = AppleBasket('red', 2)
-    basket.increase()
-    print(basket)
-
-    green_basket = GreenAppleBasket(4)
-    green_basket.increase()
-    green_basket.increase()
-    print(green_basket)
-
 
 def get_classes_from_file(file_path: str):
     """

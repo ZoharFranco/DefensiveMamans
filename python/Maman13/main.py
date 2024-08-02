@@ -1,10 +1,8 @@
 # This is a sample Python script.
-from typing import Callable, Dict, List
 
 from fruit import AppleBasket, GreenAppleBasket
 from lsts import build_b_list, oneliner_build_b_list, print_o_uppercase
 from meta import add_code_to_file_functions
-from pros import create_profession
 
 
 def test_ex1():
@@ -36,6 +34,14 @@ def test_ex3():
     print('\nEx3:')
     # create_profession()
     add_code_to_file_functions()
+    basket = AppleBasket('red', 2)
+    basket.increase()
+    print(basket)
+
+    green_basket = GreenAppleBasket(4)
+    green_basket.increase()
+    green_basket.increase()
+    print(green_basket)
 
 
 # Press the green button in the gutter to run the script.

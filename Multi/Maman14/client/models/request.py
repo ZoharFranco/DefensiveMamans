@@ -12,8 +12,8 @@ class RequestTypes(Enum):
 
 
 class Request(BaseModel):
-    user_id: str = ''
-    version: str = ''
+    user_id: int = 0
+    version: int = 0
     type: RequestTypes = RequestTypes.DEFAULT
     name_len: int = 0
     file_name: str = ''

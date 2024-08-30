@@ -15,7 +15,7 @@ class ResponseTypes(Enum):
 
 
 class Response(BaseModel):
-    version: str = ''
+    version: int = 0
     status: ResponseTypes = ResponseTypes.DEFAULT
     name_len: int = 0
     file_name: str = ''

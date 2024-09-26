@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1d77cc9-72b2-4880-ac42-1da1c9256b49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/try.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c537fb30ae83417f74be.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-f11014b02dd57b59a5f8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-782503c359af5f13f09d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-09T16-58-02-0212.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/.cmake/api/v1/reply/target-main-Debug-ee149dcc2c748c62a57c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/main.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/main.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/main.dir/models/request.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/main.dir/models/request.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/main.dir/models/response.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/main.dir/models/response.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/main.dir/server.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/main.dir/server.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/main.dir/utils/fs.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/main.dir/utils/fs.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/main.dir/utils/serialize.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/main.dir/utils/serialize.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/models/request.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/models/request.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/models/request.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/models/request.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/models/response.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/models/response.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/server.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/server.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/server.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/server.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/utils/fs.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/utils/fs.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/utils/fs.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/utils/fs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/utils/random.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/utils/random.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/utils/random.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/utils/random.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/utils/strings.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/utils/strings.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maman14/server/utils/strings.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maman14/server/utils/strings.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2lTmfySfagFRaZ1laIDlMkKOH0p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1d77cc9-72b2-4880-ac42-1da1c9256b49" name="Changes" comment="" />
+      <created>1725212548471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725212548471</updated>
+      <workItem from="1725212549448" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
